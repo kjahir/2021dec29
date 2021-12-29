@@ -1,1 +1,2 @@
 master branch file
+updated master branch file a.txt in branch b1
