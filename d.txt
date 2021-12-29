@@ -1,1 +1,2 @@
 adding new file for branch b1 remote push 
+new file d.txt in branch b2

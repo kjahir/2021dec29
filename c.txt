@@ -1,2 +1,4 @@
 file in branch b2
 testing stash on branch b1
+update the file b2
+
