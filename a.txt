@@ -1,2 +1,4 @@
 master branch file
 updating the file from master branch itself
+updated master branch file a.txt in branch b1
+updating the file in branch b1 for remote push to branch b1..lets see
